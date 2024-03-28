@@ -1,1 +1,1 @@
-# How is the data obtaineds?
+# How is the data obtained?
